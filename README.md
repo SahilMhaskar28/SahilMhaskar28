@@ -36,9 +36,7 @@ More 🚧 projects coming soon as I keep 🧑‍💻 learning & building.
 
 ## 📫✉️ Contact
 
-📧 **Email:** [sahilmhaskar28@gmail.com](mailto:sahilmhaskar28@gmail.com)
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)
-🐙 **GitHub:** [github.com/sahilmhaskar](https://github.com/sahilmhaskar)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sahilmhaskar28@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/sahilmhaskar) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/mr.sahil_mhaskar28/)
 
 ---
 
