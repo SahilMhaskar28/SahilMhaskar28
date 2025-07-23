@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Sahil Mhaskar
 
-I’m a **💻 Full-Stack Developer** passionate about building ✨ clean, user-friendly web applications. I ❤️ turning ideas into structured, production-ready projects.
+I’m a **💻 Full-Stack Developer** passionate about building ✨ clean, user-friendly web applications. I love turning ideas into structured, production-ready projects.
 
 Currently learning **☕ Java Full Stack Development** to sharpen my backend and deployment skills.
 
@@ -41,15 +41,15 @@ Currently learning **☕ Java Full Stack Development** to sharpen my backend and
 
 ## ✨ GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=sahilmhaskar&color=blue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmhaskar&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilmhaskar&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=SahilMhaskar28&color=blue)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilMhaskar28&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SahilMhaskar28&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhaskarsahil60@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Sahil Mhaskar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mhaskar-3b36b730b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/mr.sahil_mhaskar28/)
 
