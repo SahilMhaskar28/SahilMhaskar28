@@ -1,26 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sahil Mhaskar</h1>
-<h3 align="center">A passionate java full stack developer from India</h3>
+## 👋✨ Hi, I’m Sahil Mhaskar
 
-- 🔭 I’m currently working on [FoodPlaza](https://github.com/SahilMhaskar28/FoodPlaza)
+I’m a **💻 full-stack developer** building ✨ clean, 🤝 user-friendly 🌐 apps. I ❤️ bringing 🎯 projects to life, making them ✅ structured & 🚀 ready.
 
-- 🌱 I’m currently learning **Java Full Stack**
+Currently learning **☕ Java Full Stack Development** to 🛠️ sharpen backend & 🚚 deployment skills.
 
-- 👨‍💻 All of my projects are available at [https://github.com/SahilMhaskar28?tab=repositories](https://github.com/SahilMhaskar28?tab=repositories)
+---
 
-- 💬 Ask me about **Java, JDBC, Html, CSS, JavaScript, Bootstrap**
+## 🚀💡 Tech Stack
 
-- 📫 How to reach me **mhaskarsahil60@gmail.com**
+### 🌐 Frontend
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1hh7RckC-IxVdP3eI8NEnFxBf9l7GhZtG](https://drive.google.com/drive/u/0/folders/1hh7RckC-IxVdP3eI8NEnFxBf9l7GhZtG)
+* ![HTML](https://img.shields.io/badge/HTML-FFA500?logo=html5\&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap\&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sahil mhaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil mhaskar" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.sahil_mhaskar28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.sahil_mhaskar28" height="30" width="40" /></a>
-</p>
+### ☕ Backend
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+* ![Java](https://img.shields.io/badge/Java-007396?logo=java\&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?logo=java\&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-007396?logo=java\&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilmhaskar28&show_icons=true&locale=en&layout=compact" alt="sahilmhaskar28" /></p>
+### 🗄️ Database
 
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
+### ⚒️ Tools
+
+* ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code\&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide\&logoColor=white) ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apache-tomcat\&logoColor=black)
+
+---
+
+## 📌🛠️ Projects
+
+🍽️ **FoodPlaza** – JSP/Servlets CRUD 🍜 food ordering project with 🗄️ MySQL backend.
+
+More 🚧 projects coming soon as I keep 🧑‍💻 learning & building.
+
+---
+
+## 📫✉️ Contact
+
+📧 **Email:** [sahilmhaskar28@gmail.com](mailto:sahilmhaskar28@gmail.com)
+🔗 **LinkedIn:** [Your LinkedIn Profile](#)
+🐙 **GitHub:** [github.com/sahilmhaskar](https://github.com/sahilmhaskar)
+
+---
+
+✨ Always open for 🤝 collaboration & 📈 growth.
+
+---
+
+🙏 *Thanks for visiting my 🌟 GitHub profile!*
